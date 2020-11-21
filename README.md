@@ -17,7 +17,7 @@
   Run "node server.js" then proceed to navigate to http://localhost:8000
   
   ## Contribution
-  Steve Rodriguez (smrodriguez88@gmail.com)
+  Justin Pricer (justin.pricer@gmail.com)
   
   ## Tests
   N/A
