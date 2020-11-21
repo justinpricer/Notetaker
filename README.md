@@ -17,11 +17,7 @@
   git clone the repo to your local
   # Usage 
   
-  # License
-  Copyright (c) 2020, Nay Wilkins
-All rights reserved.
-  This source code is licensed under the GNU General Public License v3.0 found in the
-LICENSE file in the root directory of this source tree. 
+  
   # Contributing
   
   - Fork The Project Repo
@@ -39,5 +35,3 @@ LICENSE file in the root directory of this source tree.
   n/a
   # Questions
   
-  [Github Profile Link](https://github.com/naywilkins512)
-  - email: [nathanwilkins01@gmail.com](mailto:nathanwilkins01@gmail.com) with your name in the subject for any questions
