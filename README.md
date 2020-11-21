@@ -1,37 +1,32 @@
+# Note Taker
+  ## Table Of Contents
+  * [Description](#Description)<br>
+  * [Installation](#Installation)<br>
+  * [Usage](#Usage)<br>
+  * [Contribution](#Contribution)<br>
+  * [Tests](#Tests)<br>
+  * [Questions](#Questions)<br>
 
-  # Note-Taker
-  ![Shield](https://img.shields.io/static/v1?label=License&message=GNU_General_Public_License_v3.0&color=green)
-  # Description
-  an application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
-  # Table Of Contents
+  ## Description
+  Note Taker is a web application meant to allow a user to input and delete notes.
+
+  ## Installation
+  Run "npm Install" to install necessary packages
   
-  - [Installation Instructions](#installation-instructions)
-  - [Usage](#usage)
-  - [Licenses](#licenses)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+  ## Usage
+  Run "node server.js" then proceed to navigate to http://localhost:8000
   
-  # Installation Instructions
+  ## Contribution
+  Steve Rodriguez (smrodriguez88@gmail.com)
   
+  ## Tests
+  N/A
   
-  git clone the repo to your local
-  # Usage 
-  
-  
-  # Contributing
-  
-  - Fork The Project Repo
-  - Clone to your local computer
-  - Navigate to your local repo
-  - Pull the latest changes
-  - Create a New Branch
-  - Make your changes
-  - Commit your changes
-  - Push your changes to your fork
-  - Open a pull request
-  
-  
-  # Tests
-  n/a
-  # Questions
-  
+  ## Questions
+  For questions please contact Steve Rodriguez (smrodriguez88@gmail.com)
+
+  ## Review
+
+  * Deployed Application - 11-note-taker - http://damp-shelf-82576.herokuapp.com
+
+  * Github Repository - 11-note-taker - https://github.com/smrodriguez88/11-note-taker
