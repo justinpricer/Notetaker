@@ -23,10 +23,10 @@
   N/A
   
   ## Questions
-  For questions please contact Steve Rodriguez (smrodriguez88@gmail.com)
+  For questions please contact Justin Pricer (justin.pricer@gmail.com)
 
   ## Review
 
-  * Deployed Application - 11-note-taker - http://damp-shelf-82576.herokuapp.com
+  * Deployed Application - Notetaker - https://notetaker28.herokuapp.com/
 
-  * Github Repository - 11-note-taker - https://github.com/smrodriguez88/11-note-taker
+  * Github Repository - Notetaker - https://github.com/justinpricer/Notetaker
