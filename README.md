@@ -16,8 +16,8 @@
   ## Usage
   Run "node server.js" then proceed to navigate to http://localhost:8000
   
-  ## Contribution
-  Justin Pricer (justin.pricer@gmail.com)
+  ## Contributions
+  Justin Pricer 
   
   ## Tests
   N/A
